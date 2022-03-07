@@ -1,0 +1,2 @@
+# gugun
+login for termux
